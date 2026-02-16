@@ -18,3 +18,7 @@ pnpm-debug.log*
 # OS/editor
 .DS_Store
 .vscode/
+node_modules/
+.next/
+out/
+.env*
